@@ -41,7 +41,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-[video](https://www.dropbox.com/s/j0vn9e01kcysg62/flixster_homework.mov?dl=0)
+[video](https://github.com/jiaruizhong/Flixster/blob/master/walkthrough.gif)
 
 
 ## Notes
